@@ -149,6 +149,4 @@ MIT License
 
 ## 참고
 
-- [DART Open API 문서](https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS001)
-- [Python 공식 문서](https://docs.python.org/)
-
+- [OpenDART](https://opendart.fss.or.kr/)
