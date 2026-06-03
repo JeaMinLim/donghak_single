@@ -1,0 +1,17 @@
+# donghak_single - DART 공시 다운로드 및 마크다운 변환 도구
+# Python 3.10+
+
+# 모든 의존성은 Python 표준 라이브러리에 포함됨
+# - xml.etree.ElementTree (XML 파싱)
+# - urllib (HTTP 요청)
+# - json (JSON 파싱)
+# - zipfile (압축 해제)
+# - pathlib (경로 관리)
+# - argparse (CLI 인수 처리)
+# - dataclasses (데이터 클래스)
+# - datetime (날짜/시간)
+# - re (정규표현식)
+# - shutil (파일 작업)
+
+# 선택사항: lxml을 사용하려면 아래 주석 해제
+# lxml>=4.9.0
